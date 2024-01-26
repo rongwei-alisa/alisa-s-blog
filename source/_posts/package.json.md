@@ -5,6 +5,8 @@
  * @LastEditTime: 2021-10-14 10:40:37
  * @Description: file content
 -->
+# package.json 详解
+
 ## 什么是 npm
 Node.js 标准的软件包管理器，可以管理项目依赖的下载
 
